@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Write code that increments int a, b variale from 5 - 10 using (a++)
+print out variable answer.  after this a++ operation and see diference.
+Then print out answer for that as well*/
+
 int main()
 {
 	int a = 5, b = 10, answer = 0;
@@ -15,7 +19,8 @@ int main()
 }
 
 /*
-
+Write code that increments (operator) tuna up to 20 by one. Your answer should be
+20 over 21
 {
 	int tuna = 20;
 	printf("%d\n", tuna);

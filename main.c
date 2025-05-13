@@ -11,6 +11,12 @@ int main()
 	answer = a++ * b;  // add one to a after equation
 	printf("Answer: %d \n", answer);
 
+	int tuna = 20;
+
+	printf("%d\n", tuna);
+	tuna++;
+	printf("%d\n", tuna);
+
 	return 0;
 }
 

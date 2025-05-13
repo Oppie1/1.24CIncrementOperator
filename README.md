@@ -1,4 +1,15 @@
-First Copy and Paste top code prior to moving onto main code
+First Copy and paste this code prior to moving onto main code
+
+//Use three variables "a, b and answer to show how increament operator works
+a++ vs ++a, use "answer as the  placeholder for the function"
+
+Then use "tuna = 20" To increment tuna by one.
+
+It should look like this when printed out on screen when complete
+50
+60
+20
+21
 
 int a = 5, b = 10, answer = 0;
 	answer = ++a * b; // add 1 to a here before hand
